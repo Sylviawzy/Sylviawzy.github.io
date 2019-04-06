@@ -1,2 +1,2 @@
 # Sylviawzy.github.io
-See https://github.com/pages-themes/architect for more customization settings. 
+See https://github.com/pages-themes/minimal for more customization settings. 
