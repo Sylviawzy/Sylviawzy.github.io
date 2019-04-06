@@ -13,9 +13,8 @@ My research interest is **planning and decision-making of autonomous vehicle in 
 <br><br>
 ## Publications
 
-1. Jung, D., Ahmed, Q., **Zhang, X.**, & Rizzoni, G. (2018). Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck (No. 2018-01-1027). *SAE Technical Paper*. [[PDF]](Francis777.github.io/assets/files/2018-01-1027.pdf)
+1. Jung, D., Ahmed, Q., **Zhang, X.**, & Rizzoni, G. (2018). Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck (No. 2018-01-1027). *SAE Technical Paper*. [[PDF]](Sylviawzy.github.io/assets/files/2018-01-1027.pdf)
 
-2. Hu, Y., Feng, S., Yao, C., Shao, W., Xu, L., **Zhang, X.**, ... & Yan, R. (2017). Evaluation of a Commercial Demonstration Bus Line Utilizing Wireless Charging Technology. *SAE International Journal of Commercial Vehicles*, 10(2017-01-0651), 373-385. [[PDF]](Francis777.github.io/assets/files/wireless_charging.pdf)
 
 <br><br>
 <div id = "projects"></div>
