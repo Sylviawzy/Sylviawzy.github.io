@@ -37,7 +37,7 @@
           <li><a href="https://www.instagram.com/sylviawzy1206/"><i class="fab fa-instagram fa-3x"></i></a></li>
         </ul>
 
-        <p class="view"><strong>Contact:</strong><br /><font face = "courier"> xyzhang1 AT stanford.edu</font></p>
+        <p class="view"><strong>Contact:</strong><br /><font face = "courier"> zhongyu_wei@gse.harvard.edu</font></p>
         {% endif %}
 
         {% include nav.html %}
