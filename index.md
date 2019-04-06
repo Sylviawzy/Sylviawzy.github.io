@@ -1,4 +1,3 @@
-<div id = "top"></div>
 **Hi, I'm Xieyuan (Francis) Zhang, welcome to my homepage!**
 
 I'm a first-year MS student in Department of Mechanical Engineering, Stanford University. Before entering Stanford, I received my bachelor degree from Department of Automotive Engineering, Tsinghua University in 2018.
@@ -12,7 +11,6 @@ My research interest is **planning and decision-making of autonomous vehicle in 
 ## News
 
 <br><br>
-<div id = "publications"></div>
 ## Publications
 
 1. Jung, D., Ahmed, Q., **Zhang, X.**, & Rizzoni, G. (2018). Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck (No. 2018-01-1027). *SAE Technical Paper*. [[PDF]](Francis777.github.io/assets/files/2018-01-1027.pdf)
@@ -31,26 +29,6 @@ In other words, we see if an autonomous car can ”learn” such optimal behavio
 
 ![project_irl.jpg](Francis777.github.io/assets/img/project_irl.jpg)
 <br><br>
-#### Measurement and Evaluation of Water&Gas Distribution in Vehicular PEM Fuel Cell
-![project_pemfc.jpg](Francis777.github.io/assets/img/project_pemfc.jpg)
-[[Here]](Francis777.github.io/assets/files/fuel_cell.pdf) is my undergraduate thesis based on this project.
-<br><br>
-#### Design Space Exploration for Series Plugin Hybrid Electric Delivery Truck
-![project_osu.jpg](Francis777.github.io/assets/img/project_osu.jpg)
-<br><br>
-#### Design and Simulation of Left Turn Prohibition-based Urban Transport System
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n3-ceNZjktA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-[[Here]](Francis777.github.io/assets/files/ltp.pdf) is my project final report.
-<br><br>
-#### Analysis and Optimization of High Power Wireless Charging System
-
-In this project we explored **battery downsizing potential** of a commercial electric bus which is equipped with wireless charging system by optimizing its operating cycle.
-
-According to our results, the rated battery capacity can be reduced by more than **70%** if extra charging opportunities are introduced to daily operation. (Figure by Yaodong Hu and Siyuan Feng)
-
-![project_charging.jpg](Francis777.github.io/assets/img/project_charging.jpg)
-
 
 
 <!---
