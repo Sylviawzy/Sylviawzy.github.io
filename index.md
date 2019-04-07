@@ -71,7 +71,7 @@ _June-July 2017_
 
 ## Hobbies
 
-I love reading classics and poems. I'm particularly interested in the English poems written by American poet and scholar [Rosanna Warren](chicago.wd5.myworkdayjobs.com/en-US/External). Upon her consent, I co-translated and published her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal. I also won the 1st prize in the Budding Writers Competition for _English Language Learning_ in 2018.
+I love reading classics and poems. I'm particularly interested in the English poems written by American poet and scholar [Rosanna Warren](http://www.rosannawarren.com/). Upon her consent, I co-translated and published her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal. I also won the 1st prize in the Budding Writers Competition for _English Language Learning_ in 2018.
 
 
 
