@@ -28,6 +28,7 @@ I have engaged in several researches on the **evaluation of early childhood inte
 - _Advisor: Catherine Snow (Professor at Harvard Graduate School of Education), Dr. Si Chen_
 - The purpose of the study is to determine whether strategies for quality improvement in early childhood education (providing picture books to the classroom, conducting teacher training, helping teachers design lesson plans) will improve the vocabulary and cognitive development of young children and child-teacher interaction quality in rural China. This study is collaborating with the [One Village One Preschool Project](http://www.cdrf.org.cn/hcyey/index.jhtml) (the only nation-wide early childhood education intervention in China launched by [China Development Research Foundation](http://www.cdrf.org.cn/).
 ![CEREC.jpeg](Sylviawzy.github.io/assets/img/CEREC.jpeg)
+
 <br><br>
 
 ## Work Experiences
