@@ -41,7 +41,7 @@ The purpose of the study is to determine whether strategies for quality improvem
 **[ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern Researcher 	Sep.-Dec.2018**
 -	Conducted preliminary market research on educators’ participation in online communities and interviewed clients
 -	Using Qualtrics, designed and collected survey of 97 ELL clients to formulate product recommendation
-**[Brookings Institution - Tsinghua Center | Beijing, China](https://www.brookings.edu/center/brookings-tsinghua-center/) | Intern Researcher	Sep. 2017-June 2018**
+**[Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, Chin | Intern Researcher	Sep. 2017-June 2018**
 -	Structured information on China’s “Green Investment and Climate Bonds” database for Brookings research fellows
 -	Drafted and edited report on [wind curtailment](https://www.brookings.edu/wp-content/uploads/2018/03/wind-curtailment-in-china-and-lessons-from-the-united-states1.pdf) and marketization of energy industry in China
 -	Led social media marketing; executed promotions for Brookings Early Childhood Education, increasing views by 20%
