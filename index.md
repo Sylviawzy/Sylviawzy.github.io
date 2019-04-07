@@ -10,7 +10,7 @@ I have engaged in several researches on the **evaluation of early childhood inte
 
 1. Jung, D., Ahmed, Q., **Zhang, X.**, & Rizzoni, G. (2018). Mission-based Design Space Exploration for Powertrain Electrification of Series Plugin Hybrid Electric Delivery Truck (No. 2018-01-1027). *SAE Technical Paper*. [[PDF]](Sylviawzy.github.io/assets/files/2018-01-1027.pdf)
 
--	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Paper accepted and to be presented at the _Comparative & International Education Society(CIES 2019)_.
+-	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Paper accepted and to be presented at the _Comparative & International Education Society (CIES 2019)_.
 -	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability——Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University in July, 2018.
 -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
 -	**Wei, Z.**, & Yang, Z. (2017). On God-Man Relation and Changes of Greek Politics and Laws, _Journal of Shenyang Agricultural University (Social Science Edition)_, 19(5):513-517. [[PDF]](Sylviawzy.github.io/assets/files/CNKI论神人关系与古希腊城邦政制法律的演变.pdf)
