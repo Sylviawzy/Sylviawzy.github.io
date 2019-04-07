@@ -25,7 +25,7 @@ In this study, I constructed a _dissimilarity index_ with a sociological strateg
 ![map.png](Sylviawzy.github.io/assets/img/map.png)
 
 #### Quality improvement of early childhood education in rural China
-The purpose of the study is to determine whether strategies for quality improvement in early childhood education (providing picture books to the classroom, conducting teacher training, helping teachers design lesson plans) will improve the vocabulary and cognitive development of young children and child-teacher interaction quality in rural China. This study is collaborating with the [One Village One Preschool Project] (http://www.cdrf.org.cn/hcyey/index.jhtml)(the only nation-wide early childhood education intervention in China launched by [China Development Research Foundation (CDRF)](http://www.cdrf.org.cn/).
+The purpose of the study is to determine whether strategies for quality improvement in early childhood education (providing picture books to the classroom, conducting teacher training, helping teachers design lesson plans) will improve the vocabulary and cognitive development of young children and child-teacher interaction quality in rural China. This study is collaborating with the [One Village One Preschool Project](http://www.cdrf.org.cn/hcyey/index.jhtml)(the only nation-wide early childhood education intervention in China launched by [China Development Research Foundation (CDRF)](http://www.cdrf.org.cn/).
 ![CEREC.jpeg](Sylviawzy.github.io/assets/img/CEREC.jpeg)
 <br><br>
 
