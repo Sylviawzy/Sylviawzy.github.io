@@ -60,7 +60,7 @@ _Sep.-Dec.2018_
 #### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
 _Sep. 2017-June 2018_
 -	Structured information on China’s “Green Investment and Climate Bonds” database for Brookings research fellows
--	Edited report on [wind curtailment](https://www.brookings.edu/wp-content/uploads/2018/03/wind-curtailment-in-china-and-lessons-from-the-united-states1.pdf) and marketization of energy industry in China
+-	Edited reports on [wind curtailment](https://www.brookings.edu/wp-content/uploads/2018/03/wind-curtailment-in-china-and-lessons-from-the-united-states1.pdf) and marketization of energy industry in China
 -	Led social media marketing; executed promotions for Brookings Early Childhood Education
 
 #### Ministry of Commerce | Beijing, China | Liaison Assistant 	
@@ -73,7 +73,7 @@ _June-July 2017_
 
 I love reading classics and poems. I'm particularly interested in the English poems written by American poet and scholar [Rosanna Warren](chicago.wd5.myworkdayjobs.com/en-US/External). Upon her official consent, I translated and published her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal as a co-author. I also won the 1st prize in the Budding Writers Competition for _English Language Learning_ in 2018.
 
-
+I play the piano
 
 
 <!---
