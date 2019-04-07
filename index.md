@@ -61,7 +61,7 @@ _Sep.-Dec.2018_
 _Sep. 2017-June 2018_
 -	Structured information on China’s “Green Investment and Climate Bonds” database for Brookings research fellows
 -	Helped edit and format the reports on [wind curtailment](https://www.brookings.edu/wp-content/uploads/2018/03/wind-curtailment-in-china-and-lessons-from-the-united-states1.pdf) and marketization of energy industry in China
--	Led social media marketing; executed promotions for Brookings Early Childhood Education
+-	Executed social media promotions for Brookings Early Childhood Education
 
 #### Ministry of Commerce | Beijing, China | Liaison Assistant 	
 _June-July 2017_
