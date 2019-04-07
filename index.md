@@ -15,7 +15,6 @@ I have engaged in several researches on the **evaluation of early childhood inte
 -	**Wei, Z.**, & Yang, Z. (2017). On God-Man Relation and Changes of Greek Politics and Laws, _Journal of Shenyang Agricultural University (Social Science Edition)_, 19(5):513-517. [[PDF]](Sylviawzy.github.io/assets/files/CNKI论神人关系与古希腊城邦政制法律的演变.pdf)
 -	**Wei, Z.** (2017). Study on the Awakening of Feminine Awareness in A Dream of Red Mansions from the Perspective of Marslow’s Hierarchy of Needs, _Data of Culture and Education_, (9):15-17. [[PDF]](Sylviawzy.github.io/assets/files/从马斯洛需求层次理论看_红楼梦_中女性自我意识的觉醒_魏钟毓.pdf)
 
-
 <br><br>
 <div id = "projects"></div>
 ## Selected Research Projects
