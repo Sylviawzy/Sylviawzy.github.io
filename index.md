@@ -17,9 +17,8 @@ I have engaged in several researches on the **evaluation of early childhood inte
 
 #### Residential Segregation and Educational Institutions 
 Advisor: Luke Miratrix (Assistant Professor at Harvard Graduate School of Education)
-•	 Constructed dissimilarity index with a sociological strategy, based on Opportunity Insights & IPEDS data 
-•	 Built a multilevel model using R to examine variation in segregation within and across 2,980 counties
-![map.jpg](Sylviawzy.github.io/assets/img/map.jpg)
+I constructed a dissimilarity index with a sociological strategy, based on [Opportunity Insights](https://opportunityinsights.org/) & [IPEDS](https://nces.ed.gov/ipeds/) data, and built a multilevel model using R to examine variation in segregation within and across 2,980 counties
+![map.png](Sylviawzy.github.io/assets/img/map.png)
 
 #### Stabilizing Traffic using Inverse Reinforcement Learning
 
