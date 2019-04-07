@@ -13,7 +13,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 ## Publications & Conferences
 
 -	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Paper accepted and to be presented at the _Comparative & International Education Society (CIES 2019)_.
--	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability：An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University in July, 2018.
+-	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University in July, 2018.
 -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
 - Yang, Z. & **Wei, Z.** (2018) Porta Portese, _English Language Learning_, (1):57-59.
 -	**Wei, Z.**, & Yang, Z. (2017). On God-Man Relation and Changes of Greek Politics and Laws, _Journal of Shenyang Agricultural University (Social Science Edition)_, 19(5):513-517. [[PDF]](Sylviawzy.github.io/assets/files/CNKI论神人关系与古希腊城邦政制法律的演变.pdf)
@@ -72,6 +72,9 @@ _June-July 2017_
 ## Hobbies
 
 I love reading classics and poems. I'm particularly interested in the English poems written by American poet and scholar [Rosanna Warren](chicago.wd5.myworkdayjobs.com/en-US/External). Upon her official consent, I translated and published her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal. I also won the 1st prize in the Budding Writers Competition for _English Language Learning_ in 2018.
+
+
+
 
 <!---
 ```markdown
