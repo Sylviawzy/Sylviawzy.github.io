@@ -4,6 +4,10 @@ I'm an Ed.M candidate at the [Harvard Graduate School of Education](https://www.
 
 I have engaged in several researches on the **evaluation of early childhood interventions, with a focus on children’s literacy and socio-emotional development**. Since July 2017, I have been a research assistant to [Professor Catherine Snow](https://www.researchgate.net/profile/Catherine_Snow), [Professor Paola Uccelli](https://www.researchgate.net/profile/Paola_Uccelli), and [Assistant Professor Dana McCoy](https://www.researchgate.net/profile/Dana_Mccoy) on projects including: [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/), [Expanding Children’s Early Learning Network (ExCEL-P3)](https://www.mdrc.org/project/expanding-children-s-early-learning-excel-network), [Chinese Early Rural Education Collaborative (CEREC)](https://www.researchgate.net/project/Quality-improvement-of-early-childhood-education-in-rural-China), Global Learner Project at [Language for Learning Research Group](https://projects.iq.harvard.edu/uccelli), and [Settings for Early Child Education and Development (SEED)](https://seed.gse.harvard.edu/).
 
+My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
+
+[How to pronounce my name?](http://text-to-speech.imtranslator.net/speech.asp)
+
 <br><br>
 
 ## Publications & Conferences
