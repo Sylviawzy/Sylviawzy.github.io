@@ -21,6 +21,9 @@ In this study, I constructed a _dissimilarity index_ with a sociological strateg
 
 <br><br>
 
+## Hobbies
+
+I love reading classics and poems. I'm particularly interested in the English poems written by American poet and scholar [Rosanna Warren](chicago.wd5.myworkdayjobs.com/en-US/External). With her consent, I translated and published her poems on the _English Language Learning_ magazine. I also won the 1st prize in the Budding Writers Competition for _English Language Learning_ in 2018.
 
 <!---
 ```markdown
