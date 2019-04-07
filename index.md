@@ -46,8 +46,8 @@ The purpose of the study is to determine whether strategies for quality improvem
 -	Drafted and edited report on wind curtailment and marketization of energy industry in China
 -	Led social media marketing; executed promotions for Brookings Early Childhood Education, increasing views by 20%
 #### Ministry of Commerce | Beijing, China | Liaison Assistant 	June-July 2017
-•	Drafted proposals for the 2017 Chinese Provinces-U.S. States Trade and Investment Forum
-•	Provided dissemination and outreach support with 90+ Trade Development Bureau’s public and private-sector partners
+-	Drafted proposals for the 2017 Chinese Provinces-U.S. States Trade and Investment Forum
+-	Provided dissemination and outreach support with 90+ Trade Development Bureau’s public and private-sector partners
 
 
 ## Hobbies
