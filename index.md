@@ -16,16 +16,9 @@ I have engaged in several researches on the **evaluation of early childhood inte
 ## Selected Projects
 
 #### Residential Segregation and Educational Institutions 
-In this study, I constructed a dissimilarity index with a sociological strategy, based on [Opportunity Insights](https://opportunityinsights.org/) & [IPEDS](https://nces.ed.gov/ipeds/) data, and built a multilevel model using R to examine variation in segregation within and across 2,980 counties.
+In this study, I constructed a _dissimilarity index_ with a sociological strategy, based on [Opportunity Insights](https://opportunityinsights.org/) & [IPEDS](https://nces.ed.gov/ipeds/) data, and built a multilevel model using R to examine variation in segregation within and across 2,980 counties.
 ![map.png](Sylviawzy.github.io/assets/img/map.png)
 
-#### Stabilizing Traffic using Inverse Reinforcement Learning
-
-This project aims at exploring the potential of attenuating velocity perturbation in a mixed traffic flow using inverse reinforcement learning, using acceleration feedback-based connected car-following behavior as expert demonstration.
-
-In other words, we see if an autonomous car can ”learn” such optimal behavior without knowledge of the preceding vehicle’s acceleration in real time.
-
-![project_irl.jpg](Sylviawzy.github.io/assets/img/project_irl.jpg)
 <br><br>
 
 
