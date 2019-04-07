@@ -15,6 +15,12 @@ I have engaged in several researches on the **evaluation of early childhood inte
 <div id = "projects"></div>
 ## Selected Projects
 
+#### Residential Segregation and Educational Institutions 
+Advisor: Luke Miratrix (Assistant Professor at Harvard Graduate School of Education)
+•	 Constructed dissimilarity index with a sociological strategy, based on Opportunity Insights & IPEDS data 
+•	 Built a multilevel model using R to examine variation in segregation within and across 2,980 counties
+![map.jpg](Sylviawzy.github.io/assets/img/map.jpg)
+
 #### Stabilizing Traffic using Inverse Reinforcement Learning
 
 This project aims at exploring the potential of attenuating velocity perturbation in a mixed traffic flow using inverse reinforcement learning, using acceleration feedback-based connected car-following behavior as expert demonstration.
