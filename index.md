@@ -46,7 +46,7 @@ _Nov. 2018-Jan.2019_
 _Sep.-Dec.2018_
 -	Conducted preliminary market research on educators’ participation in online communities and interviewed clients
 -	Using Qualtrics, designed and collected survey of 97 ELL clients to formulate product recommendation
-#### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, Chin | Intern Researcher	
+#### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
 _Sep. 2017-June 2018_
 -	Structured information on China’s “Green Investment and Climate Bonds” database for Brookings research fellows
 -	Drafted and edited report on [wind curtailment](https://www.brookings.edu/wp-content/uploads/2018/03/wind-curtailment-in-china-and-lessons-from-the-united-states1.pdf) and marketization of energy industry in China
