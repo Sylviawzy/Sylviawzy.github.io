@@ -29,23 +29,23 @@ The purpose of the study is to determine whether strategies for quality improvem
 <br><br>
 
 ## Work Experiences
-### [BrainCo](https://www.brainco.tech/) (a leading brain-machine interface technology company) | Boston, US | Intern	Jan. 2019-present
+**[BrainCo](https://www.brainco.tech/)  | Boston, US | Intern	Jan. 2019-present**
 -	Design an ME5 curriculum focusing on socio-emotional development and physical wellbeing of pre-K to 5th graders
 -	Develop and test an integrated intervention curriculum for children with autism spectrum disorder
-### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern Researcher	Sep. 2018-Jan.2019
+**[Knovva Academy](https://www.knovva.com/) | Boston, US | Intern Researcher	Sep. 2018-Jan.2019**
 -	Co-designed and tested online course LICW with product team; Created rubrics for student assessment
 -	Designed and led experiential workshops for the Model G20 international youth leadership summit
-### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	Nov. 2018-Jan.2019
+**[Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	Nov. 2018-Jan.2019**
 -	Initiated a research project and analyzed the effect of 5 key global learning activities across 150 Round Square Schools on students’ global competency score using STATA; Presented preliminary results to PISA and OECD personnel
 -	Presented report at the [24th annual Student Research Conference at Harvard University](https://src.gse.harvard.edu/)
-### [ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern Researcher 	Sep.-Dec.2018
+**[ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern Researcher 	Sep.-Dec.2018**
 -	Conducted preliminary market research on educators’ participation in online communities and interviewed clients
 -	Using Qualtrics, designed and collected survey of 97 ELL clients to formulate product recommendation
-### [Brookings Institution - Tsinghua Center | Beijing, China](https://www.brookings.edu/center/brookings-tsinghua-center/) | Intern Researcher	Sep. 2017-June 2018
+**[Brookings Institution - Tsinghua Center | Beijing, China](https://www.brookings.edu/center/brookings-tsinghua-center/) | Intern Researcher	Sep. 2017-June 2018**
 -	Structured information on China’s “Green Investment and Climate Bonds” database for Brookings research fellows
 -	Drafted and edited report on [wind curtailment](https://www.brookings.edu/wp-content/uploads/2018/03/wind-curtailment-in-china-and-lessons-from-the-united-states1.pdf) and marketization of energy industry in China
 -	Led social media marketing; executed promotions for Brookings Early Childhood Education, increasing views by 20%
-### Ministry of Commerce | Beijing, China | Liaison Assistant 	June-July 2017
+**Ministry of Commerce | Beijing, China | Liaison Assistant 	June-July 2017**
 -	Drafted proposals for the 2017 Chinese Provinces-U.S. States Trade and Investment Forum
 -	Provided dissemination and outreach support with 90+ Trade Development Bureau’s public and private-sector partners
 
