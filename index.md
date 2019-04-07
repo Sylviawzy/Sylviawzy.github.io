@@ -16,7 +16,7 @@ I have engaged in several researches on the **evaluation of early childhood inte
 ## Selected Projects
 
 #### Residential Segregation and Educational Institutions 
-In this study, I constructed a dissimilarity index with a sociological strategy, based on [Opportunity Insights](https://opportunityinsights.org/) & [IPEDS](https://nces.ed.gov/ipeds/) data, and built a multilevel model using R to examine variation in segregation within and across 2,980 counties
+In this study, I constructed a dissimilarity index with a sociological strategy, based on [Opportunity Insights](https://opportunityinsights.org/) & [IPEDS](https://nces.ed.gov/ipeds/) data, and built a multilevel model using R to examine variation in segregation within and across 2,980 counties.
 ![map.png](Sylviawzy.github.io/assets/img/map.png)
 
 #### Stabilizing Traffic using Inverse Reinforcement Learning
