@@ -23,6 +23,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 <br><br>
 <div id = "projects"></div>
+
 ## Selected Research Projects
 
 #### Residential Segregation and Educational Institutions 
