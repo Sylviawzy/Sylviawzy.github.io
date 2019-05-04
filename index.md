@@ -45,11 +45,6 @@ _Nov. 2018-Jan.2019_
 -	Initiated a research project and analyzed the effect of 5 key global learning activities across 150 Round Square Schools on students’ global competency score using STATA; Presented preliminary results to PISA and OECD personnel
 -	Presented report at the [24th annual Student Research Conference at Harvard University](https://src.gse.harvard.edu/)
 
-#### [ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern Researcher 	
-_Sep.-Dec.2018_
--	Conducted preliminary market research on educators’ participation in online communities and interviewed clients
--	Using Qualtrics, designed and collected survey of 97 ELL clients to formulate product recommendation
-
 #### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
 _Sep. 2017-June 2018_
 -	Structured information on China’s “Green Investment and Climate Bonds” database for Brookings research fellows
@@ -75,6 +70,11 @@ _Jan. 2019-present_
 _Sep. 2018-Jan.2019_
 -	Co-designed and tested online course LICW with UI/UX designers to ensure content quality and student assessment 
 -	Designed and led experiential workshops for the Model G20 international youth leadership summit
+
+#### [ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern Researcher 	
+_Sep.-Dec.2018_
+-	Conducted preliminary market research on educators’ participation in online communities and interviewed clients
+-	Using Qualtrics, designed and collected survey of 97 ELL clients to formulate product recommendation
 
 <br><br>
 
