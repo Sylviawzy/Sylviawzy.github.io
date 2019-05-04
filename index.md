@@ -66,12 +66,14 @@ _June-July 2017_
 
 #### [BrainCo](https://www.brainco.tech/)  | Boston, US | Intern	
 _Jan. 2019-present_
--	Design an ME5 curriculum focusing on socio-emotional development and physical wellbeing of pre-K to 5th graders
--	Develop and test an integrated intervention curriculum for children with autism spectrum disorder
+- Designed an ME5 curriculum with 5 learning modules focusing on the socio-emotional development of pre-K to 5th graders
+- Used online learning principles to develop and test a 21-day Focus Now curriculum targeting 1,000 learners
+-	Conducted research on autism spectrum disorders for product developers' reference
+
 
 #### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern Researcher	
 _Sep. 2018-Jan.2019_
--	Co-designed and tested online course LICW with product team; Created rubrics for student assessment
+-	Co-designed and tested online course LICW with UI/UX designers to ensure content quality and student assessment 
 -	Designed and led experiential workshops for the Model G20 international youth leadership summit
 
 <br><br>
