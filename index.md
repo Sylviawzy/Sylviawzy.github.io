@@ -13,6 +13,8 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 ## Publications & Conferences
 
 -	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the _Comparative & International Education Society Annual Conference (CIES 2019)_.
+- **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th annual Student Research Conference at Harvard University.
+- **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th annual Student Research Conference at Harvard University.
 -	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University in July, 2018.
 -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
 - Yang, Z. & **Wei, Z.** (2018) Porta Portese, _English Language Learning_, (1):57-59.
@@ -35,17 +37,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 <br><br>
 
-## Work Experiences
-
-#### [BrainCo](https://www.brainco.tech/)  | Boston, US | Intern	
-_Jan. 2019-present_
--	Design an ME5 curriculum focusing on socio-emotional development and physical wellbeing of pre-K to 5th graders
--	Develop and test an integrated intervention curriculum for children with autism spectrum disorder
-
-#### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern Researcher	
-_Sep. 2018-Jan.2019_
--	Co-designed and tested online course LICW with product team; Created rubrics for student assessment
--	Designed and led experiential workshops for the Model G20 international youth leadership summit
+## Research Work Experiences
 
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
 _Nov. 2018-Jan.2019_
@@ -68,6 +60,21 @@ _June-July 2017_
 -	Drafted proposals for the 2017 Chinese Provinces-U.S. States Trade and Investment Forum
 -	Provided dissemination and outreach support with 90+ Trade Development Bureau’s public and private-sector partners
 <br><br>
+
+## Curriculum & Product Design Experiences
+
+#### [BrainCo](https://www.brainco.tech/)  | Boston, US | Intern	
+_Jan. 2019-present_
+-	Design an ME5 curriculum focusing on socio-emotional development and physical wellbeing of pre-K to 5th graders
+-	Develop and test an integrated intervention curriculum for children with autism spectrum disorder
+
+#### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern Researcher	
+_Sep. 2018-Jan.2019_
+-	Co-designed and tested online course LICW with product team; Created rubrics for student assessment
+-	Designed and led experiential workshops for the Model G20 international youth leadership summit
+
+<br><br>
+
 
 ## Hobbies
 
