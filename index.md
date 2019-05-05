@@ -42,7 +42,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
 _Nov. 2018-Jan.2019_
--	Initiated a research project and analyzed the effect of 5 key global learning activities across 150 Round Square Schools on students’ global competency score using STATA; Presented preliminary results to PISA and OECD personnel
+-	Initiated a research project and analyzed the effect of 5 key global learning activities across 150 Round Square Schools on students’ global competency score using STATA and R; Presented preliminary results to PISA and OECD personnel
 -	Presented report at the [24th annual Student Research Conference at Harvard University](https://src.gse.harvard.edu/)
 ![map.png](Sylviawzy.github.io/assets/img/GCscale.png)
 
