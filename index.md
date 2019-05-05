@@ -44,7 +44,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 _Nov. 2018-Jan.2019_
 -	Initiated a research project and analyzed the effect of 5 key global learning activities across 150 Round Square Schools on students’ global competency score using STATA; Presented preliminary results to PISA and OECD personnel
 -	Presented report at the [24th annual Student Research Conference at Harvard University](https://src.gse.harvard.edu/)
-
+![map.png](Sylviawzy.github.io/assets/img/GCscale.png)
 #### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
 _Sep. 2017-June 2018_
 -	Structured information on China’s “Green Investment and Climate Bonds” database for Brookings research fellows
