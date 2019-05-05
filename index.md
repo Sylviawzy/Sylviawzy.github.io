@@ -67,12 +67,12 @@ _Jan. 2019-present_
 -	Conducted research on autism spectrum disorders for product developers' reference
 
 
-#### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern Researcher	
+#### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern
 _Sep. 2018-Jan.2019_
 -	Co-designed and tested online course LICW with UI/UX designers to ensure content quality and student assessment 
 -	Designed and led experiential workshops for the Model G20 international youth leadership summit
 
-#### [ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern Researcher 	
+#### [ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern
 _Sep.-Dec.2018_
 -	Conducted preliminary market research on educators’ participation in online communities and interviewed clients
 -	Using Qualtrics, designed and collected survey of 97 ELL clients to formulate product recommendation
