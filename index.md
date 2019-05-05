@@ -13,8 +13,8 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 ## Publications & Conferences
 
 -	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the _Comparative & International Education Society Annual Conference (CIES 2019)_.
-- **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th annual Student Research Conference at Harvard University.
-- **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th annual Student Research Conference at Harvard University.
+- **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th Annual Student Research Conference at Harvard University.
+- **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th Annual Student Research Conference at Harvard University.
 -	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University in July, 2018.
 -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
 - Yang, Z. & **Wei, Z.** (2018) Porta Portese, _English Language Learning_, (1):57-59.
