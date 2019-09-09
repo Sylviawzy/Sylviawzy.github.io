@@ -1,8 +1,8 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-I'm an Ed.M. candidate at the [Harvard Graduate School of Education](https://www.gse.harvard.edu/), specializing in International Education Policy. My research focuses on identifying effective early childhood interventions to improve student outcomes, particularly for at-risk populations. I'm also passionate about providing robust evidence to answer policy-relevant questions. Prior to attending Harvard, I received my dual bachelor degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
+I'm an Ed.M. graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/), specializing in International Education Policy. My research focuses on identifying effective early childhood interventions to improve student outcomes, particularly for at-risk populations. I'm also passionate about providing robust evidence to answer policy-relevant questions. Prior to attending Harvard, I received my dual bachelor degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
 
-I have engaged in several researches on the **evaluation of early childhood interventions targeting at-risk students, with a focus on children’s literacy and socio-emotional development**. Since July 2017, I have been a research assistant to [Professor Catherine Snow](https://www.researchgate.net/profile/Catherine_Snow), [Professor Paola Uccelli](https://www.researchgate.net/profile/Paola_Uccelli), and [Assistant Professor Dana McCoy](https://www.researchgate.net/profile/Dana_Mccoy) on projects including: [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/), [Expanding Children’s Early Learning Network (ExCEL-P3)](https://www.mdrc.org/project/expanding-children-s-early-learning-excel-network), [Chinese Early Rural Education Collaborative (CEREC)](https://www.researchgate.net/project/Quality-improvement-of-early-childhood-education-in-rural-China), Global Learner Project at [Language for Learning Research Group](https://projects.iq.harvard.edu/uccelli), and [Settings for Early Child Education and Development (SEED)](https://seed.gse.harvard.edu/).
+I have engaged in several researches on the **evaluation of early childhood interventions targeting at-risk students, with a focus on children’s literacy and socio-emotional development**. Since July 2017, I have been a research assistant to [Professor Catherine Snow](https://www.researchgate.net/profile/Catherine_Snow), [Professor Paola Uccelli](https://www.researchgate.net/profile/Paola_Uccelli), and [Assistant Professor Dana McCoy](https://www.researchgate.net/profile/Dana_Mccoy) on projects including: [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/), [Expanding Children’s Early Learning Network (ExCEL-P3)](https://www.mdrc.org/project/expanding-children-s-early-learning-excel-network), [Chinese Early Rural Education Collaborative (CEREC)](https://www.researchgate.net/project/Quality-improvement-of-early-childhood-education-in-rural-China), Global Learner Project at [Language for Learning Research Group](https://projects.iq.harvard.edu/uccelli), and [Settings for Early Child Education and Development (SEED)](https://seed.gse.harvard.edu/). 
 
 My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
 
@@ -40,9 +40,21 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 ## Research Work Experiences
 
+#### [READS Lab at Harvard University](https://www.readslab.org/?utm_campaign=redirect_analysis&utm_source=ngnix) | Boston, US | Research Assistant	
+_May 2019-present_
+- Entered and cleaned data for the MORE Posttest Assessment and co-drafted the multilevel model specification plan 
+-	Transcribed and coded argumentative writing samples for first and second graders and prepared for holistic scoring
+-	Co-designed the rubric for assessing students’ pre- and post- difference in defining and explaining key vocabulary 
+
+#### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
+_July 2017-present_
+- Devised a coding scheme and coded 261 students’ writings using CLAN (Computerized Language Analysis)
+- Built a multilevel model using STATA assessing associations between Global Intercultural Competence, language backgrounds and the amount of cross-cultural exposure
+
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
-_Nov. 2018-Jan.2019_
--	Initiated a research project and analyzed the effect of 5 key global learning activities across 150 Round Square Schools on students’ global competency score using STATA and R; Presented preliminary results to PISA and OECD personnel
+_Nov. 2018-May.2019_
+-	Built a multilevel model using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ global competence score based on PISA assessments
+-	Visualized data using ggplot to tease out potential engines driving the gaps in Global Competence achievement
 -	Presented report at the [24th annual Student Research Conference at Harvard University](https://src.gse.harvard.edu/)
 ![map.png](Sylviawzy.github.io/assets/img/GCscale.png)
 
@@ -52,11 +64,6 @@ _Sep. 2017-June 2018_
 -	Provided editorial assistance with the English report on [wind curtailment](https://www.brookings.edu/wp-content/uploads/2018/03/wind-curtailment-in-china-and-lessons-from-the-united-states1.pdf) and marketization of energy industry in China
 -	Executed social media promotions for Brookings Early Childhood Education
 
-#### Ministry of Commerce | Beijing, China | Liaison Assistant 	
-_June-July 2017_
--	Drafted proposals for the 2017 Chinese Provinces-U.S. States Trade and Investment Forum
--	Provided dissemination and outreach support with 90+ Trade Development Bureau’s public and private-sector partners
-<br><br>
 
 ## Curriculum & Product Design Experiences
 
@@ -69,8 +76,10 @@ _Jan. 2019-present_
 
 #### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern
 _Sep. 2018-Jan.2019_
--	Co-designed and tested online course LICW with UI/UX designers to ensure content quality and student assessment 
--	Designed and led experiential workshops for the Model G20 international youth leadership summit
+-	Revised content for online course “Learning in a Connected World” with UI/UX designers 
+- Designed and moderated 3 experiential workshops for the 2019 Model G20 international youth leadership summit
+- Created 2 learning evaluations embedded in course videos using Kaltura Media space
+
 
 #### [ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern
 _Sep.-Dec.2018_
@@ -83,7 +92,6 @@ _Sep.-Dec.2018_
 ## Hobbies
 
 I love reading classics and poems. Presently I'm interested in the English poems written by American poet and scholar [Rosanna Warren](http://www.rosannawarren.com/). Upon her consent, I co-published the Chinese translations and appreciations of her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal. I also won the 1st prize in the English Budding Writers Competition for _English Language Learning_ for my two articles in 2018.
-
 
 
 
