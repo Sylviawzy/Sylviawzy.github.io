@@ -34,13 +34,16 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 #### Quality improvement of early childhood education in rural China
 - _Advisor: Catherine Snow (Professor at Harvard Graduate School of Education), Dr. Si Chen_
 - The purpose of the study is to determine whether strategies for quality improvement in early childhood education (providing picture books to the classroom, conducting teacher training, helping teachers design lesson plans) will improve the vocabulary and cognitive development of young children and child-teacher interaction quality in rural China. This study is collaborating with the [One Village One Preschool Project](http://www.cdrf.org.cn/hcyey/index.jhtml) (the only nation-wide early childhood education intervention in China launched by [China Development Research Foundation](http://www.cdrf.org.cn/).
+- Based on transcribed videos, designed a coding scheme measuring the motivationally supportive elements in teacher-child interactions and coded 630-minute video transcriptions using CLAN
+- Based on preliminary findings, designed content for online teacher training for 56 local rural teachers
+
 ![CEREC.jpeg](Sylviawzy.github.io/assets/img/CEREC.jpeg)
 
 <br><br>
 
 ## Research Work Experiences
 
-#### [READS Lab at Harvard University](https://www.readslab.org/?utm_campaign=redirect_analysis&utm_source=ngnix) | Boston, US | Research Assistant	
+#### [READS Lab at the Center for Education Policy Research](https://www.readslab.org/?utm_campaign=redirect_analysis&utm_source=ngnix) | Boston, US | Research Assistant	
 _May 2019-present_
 - Entered and cleaned data for the MORE Posttest Assessment and co-drafted the multilevel model specification plan 
 -	Transcribed and coded argumentative writing samples for first and second graders and prepared for holistic scoring
