@@ -56,7 +56,7 @@ _July 2017-present_
 
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
 _Nov. 2018-May.2019_
--	Built a multilevel model using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ global competence score based on PISA assessments
+-	Built a multilevel model using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
 -	Visualized data using ggplot to tease out potential engines driving the gaps in Global Competence achievement
 -	Presented report at the [24th annual Student Research Conference at Harvard University](https://src.gse.harvard.edu/)
 ![map.png](Sylviawzy.github.io/assets/img/GCscale.png)
