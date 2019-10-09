@@ -11,8 +11,11 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 <br><br>
 
 ## Publications & Conferences
-
--	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the _Comparative & International Education Society Annual Conference (CIES 2019)_.
+-	**Wei, Z.**, Hsin, L. & Deng, Z. (2020). Stance, persons and register in (pre-) adolescents’ argumentative writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
+- Dahbi, M. & **Wei, Z.** (2020). Development and Validation of a Measure of Intercultural Fluency for Adolescents. Paper symposium submitted to the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
+-	**Wei, Z.** (2020). Teachers’ Autonomy, Relatedness and Competence Support in Rural China Preschool Classrooms. Poster submitted to the annual meeting of the American Educational Research Association (AERA 2020), San Francisco, CA. April 17-21.
+-	**Wei, Z.** (2019). Motivational Resources in Teacher-child Interactions in Rural China Preschool Classrooms—Evidence from the One Village One Preschool Program. Poster accepted by the Harvard Shanghai Center Academic Meeting on Quality Improvement for Early Childhood Education in Rural China, Shanghai, China. November 22.
+-	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the Comparative & International Education Society Annual Conference (CIES 2019).
 - **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th Annual Student Research Conference at Harvard University.
 - **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th Annual Student Research Conference at Harvard University.
 -	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University in July, 2018.
@@ -45,8 +48,9 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
 _July 2017-present_
-- Devised a coding scheme and coded 261 students’ writings using CLAN (Computerized Language Analysis)
-- Built a multilevel model using STATA assessing associations between Global Intercultural Competence, language backgrounds and the amount of cross-cultural exposure
+-	Conducted IRT, CLT and correlational analyses for 3 research-designed measures for adolescents’ intercultural fluency (IF)
+-	Devised a coding scheme and coded 261 students’ written responses to a hypothetical intercultural scenario using CLAN
+-	Built regression model using STATA to assess links between IF, language status and cultural experiential characteristics
 
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
 _Nov. 2018-May.2019_
