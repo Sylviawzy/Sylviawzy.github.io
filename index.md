@@ -10,7 +10,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 <br><br>
 
-## Publications & Conferences
+## Conferences
 -	**Wei, Z.**, Hsin, L. & Deng, Z. (2020). Stance, persons and register in (pre-) adolescents’ argumentative writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
 - Dahbi, M. & **Wei, Z.** (2020). Development and Validation of a Measure of Intercultural Fluency for Adolescents. Paper symposium submitted to the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
 -	**Wei, Z.** (2020). Teachers’ Autonomy, Relatedness and Competence Support in Rural China Preschool Classrooms. Poster submitted to the annual meeting of the American Educational Research Association (AERA 2020), San Francisco, CA. April 17-21.
@@ -18,7 +18,9 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 -	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the Comparative & International Education Society Annual Conference (CIES 2019).
 - **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th Annual Student Research Conference at Harvard University.
 - **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th Annual Student Research Conference at Harvard University.
--	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University in July, 2018.
+-	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University, Changchun, China. July 22-24.
+
+## Publications
 -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
 - Yang, Z. & **Wei, Z.** (2018) Porta Portese, _English Language Learning_, (1):57-59.
 -	**Wei, Z.**, & Yang, Z. (2017). On God-Man Relation and Changes of Greek Politics and Laws, _Journal of Shenyang Agricultural University (Social Science Edition)_, 19(5):513-517. [[PDF]](Sylviawzy.github.io/assets/files/CNKI论神人关系与古希腊城邦政制法律的演变.pdf)
