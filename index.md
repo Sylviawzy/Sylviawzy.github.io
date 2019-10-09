@@ -68,13 +68,6 @@ _Sep. 2017-June 2018_
 
 ## Curriculum & Product Design Experiences
 
-#### [BrainCo](https://www.brainco.tech/)  | Boston, US | Intern	
-_Jan. 2019-present_
-- Designed an ME5 curriculum with 5 learning modules focusing on the socio-emotional development of pre-K to 5th graders
-- Used online learning principles to develop and test a 21-day Focus Now curriculum targeting 1,000 learners
--	Conducted research on autism spectrum disorders for product developers' reference
-
-
 #### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern
 _Sep. 2018-Jan.2019_
 -	Revised content for online course “Learning in a Connected World” with UI/UX designers 
