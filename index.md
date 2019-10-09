@@ -43,12 +43,6 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 ## Research Work Experiences
 
-#### [READS Lab at the Center for Education Policy Research](https://www.readslab.org/?utm_campaign=redirect_analysis&utm_source=ngnix) | Boston, US | Research Assistant	
-_May 2019-present_
-- Entered and cleaned data for the MORE Posttest Assessment and co-drafted the multilevel model specification plan 
--	Transcribed and coded argumentative writing samples for first and second graders and prepared for holistic scoring
--	Co-designed the rubric for assessing students’ pre- and post- difference in defining and explaining key vocabulary 
-
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
 _July 2017-present_
 - Devised a coding scheme and coded 261 students’ writings using CLAN (Computerized Language Analysis)
