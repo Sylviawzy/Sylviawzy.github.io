@@ -50,9 +50,9 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 #### [READS Lab at Harvard University](https://www.readslab.org) | Boston, US | Research Assistant	
 _June 2018-present_
--	Created K-4 books, curriculum andn multimedia resources for app content development and ensured alignment of content to the World Wide Web Consortium's (W3C) standards
+-	Created K-4 books, curriculum and multimedia resources for app content development and ensured alignment of content to the World Wide Web Consortium's (W3C) standards
 - Assisted the analytic and writing team to prep data and helped draft analytic plans and develop reports and articles for publication
-- Asisted the logistics for the large RCT including survey, assessment and material preparation 
+- Assisted the logistics for the large-scale RCT including survey, assessment and material preparation 
 
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
 _July 2017-present_
