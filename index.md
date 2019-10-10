@@ -57,16 +57,17 @@ _June 2018-present_
 
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
 _July 2017-present_
--	Conducted IRT, CLT and correlational analyses for 3 researcher-designed measures for adolescents’ intercultural fluency (IF)
+-	Conducted IRT, CLT and correlational analyses for researcher-designed measures for adolescents’ intercultural fluency (IF)
 -	Devised a coding scheme and coded 261 students’ written responses to a hypothetical intercultural scenario using CLAN
 -	Built regression model using STATA to assess links between IF, language status and cultural experiential characteristics
+![GL IRT.png](Sylviawzy.github.io/assets/img/GL IRT.png)
 
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
 _Nov. 2018-May.2019_
 -	Built a multilevel model using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
 -	Visualized data using ggplot to tease out potential engines driving the gaps in Global Competence achievement
 -	Presented report at the [24th annual Student Research Conference at Harvard University](https://src.gse.harvard.edu/)
-![map.png](Sylviawzy.github.io/assets/img/GCscale.png)
+![GCscale.png](Sylviawzy.github.io/assets/img/GCscale.png)
 
 #### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
 _Sep. 2017-June 2018_
