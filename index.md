@@ -1,6 +1,6 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focuses on the role of sociocognitive model in the development of literacy skills. I'm also passionate about identifying effective early childhood interventions to improve student outcomes, particularly for at-risk populations. Prior to attending Harvard, I received my dual bachelor degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
+In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focus on the role of sociocognitive model in the development of language and literacy skills throughout early childhood to (pre-)adolescence. I'm also interested in teacher-child interactions and the design and evaluation of early childhood intervention, particularly in low-resource areas . Prior to attending Harvard, I received my dual bachelor degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
 
 I have engaged in several researches on the **evaluation of early childhood interventions targeting at-risk students, with a focus on children’s literacy and socio-emotional development**. Since July 2017, I have been a research assistant to [Professor Catherine Snow](https://www.researchgate.net/profile/Catherine_Snow), [Professor Paola Uccelli](https://www.researchgate.net/profile/Paola_Uccelli) on projects including: [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/), [Expanding Children’s Early Learning Network (ExCEL-P3)](https://www.mdrc.org/project/expanding-children-s-early-learning-excel-network), [Chinese Early Rural Education Collaborative (CEREC)](https://www.researchgate.net/project/Quality-improvement-of-early-childhood-education-in-rural-China), and the Global Learner Project at [Language for Learning Research Group](https://projects.iq.harvard.edu/uccelli)
 
@@ -48,9 +48,15 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 ## Research Work Experiences
 
+#### [READS Lab at Harvard University](https://www.readslab.org) | Boston, US | Research Assistant	
+_June 2018-present_
+-	Created K-4 books, curriculum andn multimedia resources for app content development and ensured alignment of content to the World Wide Web Consortium's (W3C) standards
+- Assisted the analytic and writing team to prep data and helped draft analytic plans and develop reports and articles for publication
+- Asisted the logistics for the large RCT including survey, assessment and material preparation 
+
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
 _July 2017-present_
--	Conducted IRT, CLT and correlational analyses for 3 research-designed measures for adolescents’ intercultural fluency (IF)
+-	Conducted IRT, CLT and correlational analyses for 3 researcher-designed measures for adolescents’ intercultural fluency (IF)
 -	Devised a coding scheme and coded 261 students’ written responses to a hypothetical intercultural scenario using CLAN
 -	Built regression model using STATA to assess links between IF, language status and cultural experiential characteristics
 
