@@ -1,8 +1,14 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focus on the role of sociocognitive model in the development of language and literacy skills throughout early childhood to (pre-)adolescence. I'm involved in the design and evaluation of multiple large-scale RCTs, particularly in low-resource areas. Prior to attending Harvard, I received my dual bachelor degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
+In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focus on **the role of sociocognitive model in the development of language and literacy skills throughout early childhood to (pre-)adolescence**. Prior to attending Harvard, I received my dual bachelor degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
 
-I have engaged in several large-scale RCTs, on the **evaluation of early childhood interventions targeting at-risk students, with a focus on children’s literacy and socio-emotional development**. Since July 2017, I have been a research assistant to [Professor Catherine Snow](https://www.researchgate.net/profile/Catherine_Snow), [Professor Paola Uccelli](https://www.researchgate.net/profile/Paola_Uccelli) on projects including: [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/), [Expanding Children’s Early Learning Network (ExCEL-P3)](https://www.mdrc.org/project/expanding-children-s-early-learning-excel-network), [Chinese Early Rural Education Collaborative (CEREC)](https://www.researchgate.net/project/Quality-improvement-of-early-childhood-education-in-rural-China), and the Global Learner Project at [Language for Learning Research Group](https://projects.iq.harvard.edu/uccelli)
+I have provided research assistance for the design and evaluation of multiple large-scale randomized controlled trials (RCTs) aimed at enhancing children's language and literacy development in relatively low-resource areas in both United States and China. The projects I have been involved in consist of 
+- [Model of Reading Engagement (MORE)](https://www.readslab.org/more-study) from the [READS Lab](https://www.readslab.org/) at Harvard University
+- Global Learner Project at [Language for Learning Research Group ] (https://projects.iq.harvard.edu/uccelli) at Harvard University
+- [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/) within the IES-funded RCT of the [Word Generation](https://wordgen.serpmedia.org/) academic language and reading curriculum
+- [Chinese Early Rural Education Collaborative (CEREC)](https://www.researchgate.net/project/Quality-improvement-of-early-childhood-education-in-rural-China)
+
+The skills, ideas learned from my academic training and research experiences "squeezing the science out of RCT oranges" reaffirms the depth and the versatility of that training
 
 My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
 
@@ -10,15 +16,15 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 <br><br>
 
-## Conferences
--	**Wei, Z.**, Hsin, L. & Deng, Z. (2020). Stance, persons and register in (pre-) adolescents’ argumentative writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
+## Conference Presentations
+-	**Wei, Z.**, Hsin, L. & Deng, Z. (2020). Stance, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
 - Dahbi, M. & **Wei, Z.** (2020). Development and Validation of a Measure of Intercultural Fluency for Adolescents. Paper symposium submitted to the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
 - Qin, W. & **Wei, Z.** (2020). Tutor-child Dialogic Reading in a Second Language and Communicative Development. Poster submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
 -	**Wei, Z.** (2020). Teachers’ Autonomy, Relatedness and Competence Support in Rural China Preschool Classrooms. Poster submitted to the annual meeting of the American Educational Research Association (AERA 2020), San Francisco, CA. April 17-21.
 -	**Wei, Z.** (2019). Motivational Resources in Teacher-child Interactions in Rural China Preschool Classrooms—Evidence from the One Village One Preschool Program. Poster accepted by the Harvard Shanghai Center Academic Meeting on Quality Improvement for Early Childhood Education in Rural China, Shanghai, China. November 22.
--	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the Comparative & International Education Society Annual Conference (CIES 2019).
-- **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th Annual Student Research Conference at Harvard University.
-- **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th Annual Student Research Conference at Harvard University.
+-	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the Comparative & International Education Society (CIES 2019), San Francisco, CA. April 14-18.
+- **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
+- **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
 -	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University, Changchun, China. July 22-24.
 
 ## Publications
@@ -37,12 +43,11 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 - In this study, I constructed a _dissimilarity index_ with a sociological strategy, based on [Opportunity Insights](https://opportunityinsights.org/) & [IPEDS](https://nces.ed.gov/ipeds/) data, and built a multilevel model using R to examine variation in segregation within and across 2,980 counties.
 ![map.png](Sylviawzy.github.io/assets/img/map.png)
 
-#### Quality improvement of early childhood education in rural China
+#### Quality Improvement of Early Childhood Education in Rural China
 - _Advisor: Catherine Snow (Professor at Harvard Graduate School of Education), Dr. Si Chen_
 - The purpose of the study is to determine whether strategies for quality improvement in early childhood education (e.g., providing picture books to the classroom, conducting teacher training et) will improve the vocabulary and cognitive development of young children and child-teacher interaction quality in rural China. This study is collaborating with the [One Village One Preschool Project](http://www.cdrf.org.cn/hcyey/index.jhtml) launched by [China Development Research Foundation](http://www.cdrf.org.cn/).
-- Based on transcribed videos, designed a coding scheme measuring the motivationally supportive elements in teacher-child interactions and coded 630-minute video transcriptions using CLAN
-- Based on preliminary findings, designed content for online teacher training for 56 local rural teachers
-
+- I designed a CLAN-based coding scheme measuring the motivational resources in teacher-child interactions. Using a random sample of 21 classrooms, that is, a total of 630-minute classroom activities, I coded the autonomy support, relatedness support, and competence support reflected in teachers' language use, and modeled links with preacademic outcomes. 
+- Based on preliminary findings, I designed content for online teacher training for 56 local preschool teachers
 ![CEREC.jpeg](Sylviawzy.github.io/assets/img/CEREC.jpeg)
 
 <br><br>
@@ -53,7 +58,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 _June 2018-present_
 -	Created K-4 books, curriculum and multimedia resources for app content development and ensured alignment of content to the World Wide Web Consortium's (W3C) standards
 - Assisted the analytic and writing team to prep data and helped draft analytic plans and develop reports and articles for publication
-- Assisted the logistics for the large-scale RCT including survey, assessment and material preparation 
+- Assisted the logistics for the large-scale MORE Intervention including survey, assessment and material preparation 
 
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
 _July 2017-present_
