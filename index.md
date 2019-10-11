@@ -18,7 +18,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 -	**Wei, Z.**, Hsin, L. & Deng, Z. (2020). Stance, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
 - Dahbi, M. & **Wei, Z.** (2020). Development and Validation of a Measure of Intercultural Fluency for Adolescents. Paper symposium submitted to the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
 - Qin, W. & **Wei, Z.** (2020). Tutor-child Dialogic Reading in a Second Language and Communicative Development. Poster submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
--	**Wei, Z.** (2020). Teachers’ Autonomy, Relatedness and Competence Support in Rural China Preschool Classrooms. Poster submitted to the annual meeting of the American Educational Research Association (AERA 2020), San Francisco, CA. April 17-21.
+-	**Wei, Z.** (2020). Teachers’ Autonomy, Relatedness and Competence Support in Rural China Preschool Classrooms. Sessioin presentation submitted to the annual meeting of the American Educational Research Association (AERA 2020), San Francisco, CA. April 17-21.
 -	**Wei, Z.** (2019). Motivational Resources in Teacher-child Interactions in Rural China Preschool Classrooms—Evidence from the One Village One Preschool Program. Poster accepted by the Harvard Shanghai Center Academic Meeting on Quality Improvement for Early Childhood Education in Rural China, Shanghai, China. November 22.
 -	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the Comparative & International Education Society (CIES 2019), San Francisco, CA. April 14-18.
 - **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
@@ -69,7 +69,6 @@ _July 2017-present_
 _Nov. 2018-May.2019_
 -	Built a multilevel model using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
 -	Visualized data using ggplot to tease out potential engines driving the gaps in Global Competence achievement
--	Presented report at the [24th annual Student Research Conference at Harvard University](https://src.gse.harvard.edu/)
 ![GCscale.png](Sylviawzy.github.io/assets/img/GCscale.png)
 
 #### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
