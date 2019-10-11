@@ -45,7 +45,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 - _Advisor: Catherine Snow (Professor at Harvard Graduate School of Education), Dr. Si Chen_
 - The purpose of the study is to determine whether strategies for quality improvement in early childhood education (e.g., providing picture books to the classroom, conducting teacher training et) will improve the vocabulary and cognitive development of young children and child-teacher interaction quality in rural China. This study is collaborating with the [One Village One Preschool Project](http://www.cdrf.org.cn/hcyey/index.jhtml) launched by [China Development Research Foundation](http://www.cdrf.org.cn/).
 - I designed a CLAN-based coding scheme measuring the motivational resources in teacher-child interactions. Using a random sample of 21 classrooms, that is, a total of 630-minute classroom activities, I coded the autonomy support, relatedness support, and competence support reflected in teachers' language use, and modeled links with preacademic outcomes. 
-- Based on preliminary findings, I designed content for online teacher training for 56 local preschool teachers
+- Based on preliminary findings, I developed content for online PD for 56 local preschool teachers.
 ![CEREC.jpeg](Sylviawzy.github.io/assets/img/CEREC.jpeg)
 
 <br><br>
