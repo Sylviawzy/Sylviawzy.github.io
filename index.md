@@ -2,13 +2,11 @@
 
 In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focus on **the role of sociocognitive model in the development of language and literacy skills throughout early childhood to (pre-)adolescence**. Prior to attending Harvard, I received my dual bachelor degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
 
-I have provided research assistance for the design and evaluation of multiple large-scale randomized controlled trials (RCTs) aimed at enhancing children's language and literacy development in relatively low-resource areas in both United States and China. The projects I have been involved in consist of 
+I have provided research assistance for the design and evaluation of multiple large-scale randomized controlled trials (RCTs) aimed at enhancing children's language and literacy development in relatively low-resource areas in both United States and China. The projects I have been involved in consist of：
 - [Model of Reading Engagement (MORE)](https://www.readslab.org/more-study) from the [READS Lab](https://www.readslab.org/) at Harvard University
-- Global Learner Project at [Language for Learning Research Group ] (https://projects.iq.harvard.edu/uccelli) at Harvard University
+- Global Learner Project at [Language for Learning Research Group](https://projects.iq.harvard.edu/uccelli) at Harvard University
 - [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/) within the IES-funded RCT of the [Word Generation](https://wordgen.serpmedia.org/) academic language and reading curriculum
 - [Chinese Early Rural Education Collaborative (CEREC)](https://www.researchgate.net/project/Quality-improvement-of-early-childhood-education-in-rural-China)
-
-The skills, ideas learned from my academic training and research experiences "squeezing the science out of RCT oranges" reaffirms the depth and the versatility of that training
 
 My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
 
