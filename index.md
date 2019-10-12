@@ -67,8 +67,8 @@ _July 2017-present_
 
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
 _Nov. 2018-May.2019_
--	Built a multilevel model using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
--	Visualized data using ggplot to tease out potential engines driving the gaps in Global Competence achievement
+-	Built multilevel models using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
+-	Visualized data using ggplot to explore potential engines driving the gaps in Global Competence achievement
 ![GCscale.png](Sylviawzy.github.io/assets/img/GCscale.png)
 
 #### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
