@@ -2,7 +2,7 @@
 
 In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focuses on **the role of the sociocognitive model in the development of language and literacy skills from early childhood to (pre-)adolescence**. I received my dual bachelor's degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
 
-I have provided research assistance for the design and evaluation of multiple large-scale randomized controlled trials (RCTs) aimed at enhancing children's language and literacy development in relatively low-resource areas in both United States and China. The projects I have been involved in consist of：
+I have provided research assistance for the design and evaluation of multiple large-scale randomized control trials (RCTs) aimed at enhancing children's language and literacy development in relatively low-resource areas in both United States and China. The projects I have been involved in consist of：
 - [Model of Reading Engagement (MORE)](https://www.readslab.org/more-study) from the [READS Lab](https://www.readslab.org/) at Harvard University
 - Global Learner Project at [Language for Learning Research Group](https://projects.iq.harvard.edu/uccelli) at Harvard University
 - [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/) within the IES-funded RCT of the [Word Generation](https://wordgen.serpmedia.org/) academic language and reading curriculum
@@ -16,7 +16,7 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 ## Conference Presentations
 -	**Wei, Z.**, Hsin, L. & Deng, Z. (2020). Stance, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
-- Dahbi, M. & **Wei, Z.** (2020). Development and Validation of a Measure of Intercultural Fluency for Adolescents. Paper symposium submitted to the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
+- Dahbi, M. & **Wei, Z.** (2020). Development and Validation of a Measure of Intercultural Fluency for Adolescents. Poster  submitted to the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
 - Qin, W. & **Wei, Z.** (2020). Tutor-child Dialogic Reading in a Second Language and Communicative Development. Poster submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
 -	**Wei, Z.** (2020). Teachers’ Autonomy, Relatedness and Competence Support in Rural China Preschool Classrooms. Session presentation submitted to the annual meeting of the American Educational Research Association (AERA 2020), San Francisco, CA. April 17-21.
 -	**Wei, Z.** (2019). Motivational Resources in Teacher-child Interactions in Rural China Preschool Classrooms—Evidence from the One Village One Preschool Program. Poster accepted by the Harvard Shanghai Center Academic Meeting on Quality Improvement for Early Childhood Education in Rural China, Shanghai, China. November 22.
