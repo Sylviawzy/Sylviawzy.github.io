@@ -28,8 +28,8 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 ## Publications
 -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
 - Yang, Z. & **Wei, Z.** (2018) Porta Portese, _English Language Learning_, (1):57-59.
--	**Wei, Z.**, & Yang, Z. (2017). On God-Man Relation and Changes of Greek Politics and Laws, _Journal of Shenyang Agricultural University (Social Science Edition)_, 19(5):513-517. [[PDF]](Sylviawzy.github.io/assets/files/CNKI论神人关系与古希腊城邦政制法律的演变.pdf)
--	**Wei, Z.** (2017). Study on the Awakening of Feminine Awareness in A Dream of Red Mansions from the Perspective of Marslow’s Hierarchy of Needs, _Data of Culture and Education_, (9):15-17. [[PDF]](Sylviawzy.github.io/assets/files/从马斯洛需求层次理论看_红楼梦_中女性自我意识的觉醒_魏钟毓.pdf)
+-	**Wei, Z.**, & Yang, Z. (2017). On God-Man Relation and Changes of Greek Politics and Laws, _Journal of Shenyang Agricultural University (Social Science Edition)_, 19(5):513-517. 
+-	**Wei, Z.** (2017). Study on the Awakening of Feminine Awareness in A Dream of Red Mansions from the Perspective of Marslow’s Hierarchy of Needs, _Data of Culture and Education_, (9):15-17.
 
 <br><br>
 <div id = "projects"></div>
