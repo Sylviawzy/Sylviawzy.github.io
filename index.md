@@ -1,12 +1,6 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focuses on **the role of the sociocognitive model in the development of language and literacy skills from early childhood to (pre-)adolescence**. I received my dual bachelor's degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018.
-
-I have provided research assistance for the design and evaluation of multiple large-scale randomized control trials (RCTs) aimed at enhancing children's language and literacy development in relatively low-resource areas in both United States and China. The projects I have been involved in consist of：
-- [Model of Reading Engagement (MORE)](https://www.readslab.org/more-study) from the [READS Lab](https://www.readslab.org/) at Harvard University
-- Global Learner Project at [Language for Learning Research Group](https://projects.iq.harvard.edu/uccelli) at Harvard University
-- [Catalyzing Comprehension through Debates and Discussion project (CCDD)](https://ccdd.serpmedia.org/) within the IES-funded RCT of the [Word Generation](https://wordgen.serpmedia.org/) academic language and reading curriculum
-- [Chinese Early Rural Education Collaborative (CEREC)](https://www.researchgate.net/project/Quality-improvement-of-early-childhood-education-in-rural-China)
+In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focuses on **the role of the sociocognitive model in the development of language and literacy skills from early childhood to (pre-)adolescence**. I received my dual bachelor's degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018. I have provided research assistance for the design and evaluation of multiple large-scale randomized control trials (RCTs) aimed at enhancing children's language and literacy development in relatively low-resource areas in both United States and China. 
 
 My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
 
@@ -15,10 +9,8 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 <br><br>
 
 ## Conference Presentations
--	**Wei, Z.**, Hsin, L. & Deng, Z. (2020). Stance, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
+-	**Wei, Z.**, Deng, Z. & Hsin, L.(2020). Position, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
 - Dahbi, M.,  **Wei, Z.**, Uccelli, P., de Galbert, P., & Qin, W. (2020). Development and Validation of a Measure of Intercultural Fluency for US Adolescents Traveling Abroad. Poster submitted to the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
-- Qin, W. & **Wei, Z.** (2020). Tutor-child Dialogic Reading in a Second Language and Communicative Development. Poster submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
--	**Wei, Z.**, Chen, Si., & Snow, C. (2020). Teachers’ Autonomy, Relatedness and Competence Support in Rural China Preschool Classrooms. Session presentation submitted to the annual meeting of the American Educational Research Association (AERA 2020), San Francisco, CA. April 17-21.
 -	**Wei, Z.** (2019). Motivational Resources in Teacher-child Interactions in Rural China Preschool Classrooms—Evidence from the One Village One Preschool Program. Poster accepted by the Harvard Shanghai Center Academic Meeting on Quality Improvement for Early Childhood Education in Rural China, Shanghai, China. November 22.
 -	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the Comparative & International Education Society (CIES 2019), San Francisco, CA. April 14-18.
 - **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
@@ -34,36 +26,18 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 <br><br>
 <div id = "projects"></div>
 
-## Selected Research Projects
-
-#### Residential Segregation and Educational Institutions 
-- _Advisor: Luke Miratrix (Assistant Professor at Harvard Graduate School of Education)_
-- In this study, I constructed a _dissimilarity index_ with a sociological strategy, based on [Opportunity Insights](https://opportunityinsights.org/) & [IPEDS](https://nces.ed.gov/ipeds/) data, and built a multilevel model using R to examine variation in segregation within and across 2,980 counties.
-![map.png](Sylviawzy.github.io/assets/img/map.png)
-
-#### Quality Improvement of Early Childhood Education in Rural China
-- _Advisor: Catherine Snow (Professor at Harvard Graduate School of Education), Dr. Si Chen_
-- The purpose of the study is to determine whether strategies for quality improvement in early childhood education (e.g., providing picture books to the classroom, conducting teacher training etc.) will improve the vocabulary and cognitive development of young children and child-teacher interaction quality in rural China. This study collaborates with the [One Village One Preschool Project](http://www.cdrf.org.cn/hcyey/index.jhtml) launched by [China Development Research Foundation](http://www.cdrf.org.cn/).
-- I designed a CLAN-based coding scheme measuring the motivational resources in teacher-child interactions. Using a random sample of 21 classrooms (i.e., a total of 630-minute classroom activities), I coded the autonomy support, relatedness support, and competence support reflected in teachers' language use, and modeled links with preacademic outcomes. 
-- Based on preliminary findings, I developed content for online PD for 56 local preschool teachers.
-![CEREC.jpeg](Sylviawzy.github.io/assets/img/CEREC.jpeg)
-
-<br><br>
-
 ## Research Work Experiences
 
 #### [READS Lab at Harvard University](https://www.readslab.org) | Boston, US | Research Assistant	
 _June 2018-present_
--	Created K-4 books, curriculum and multimedia resources for app content development and ensured alignment of content to the World Wide Web Consortium's (W3C) standards
-- Assisted the analytic and writing team to prep data and helped draft analytic plans and develop reports and articles for publication
+- Entered data for G1&2 vocabulary assessments, transcribed 2,330 persuasive essays and prepared for rating and analysis
 - Assisted the logistics for the large-scale MORE Intervention including survey, assessment and material preparation 
 
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
-_July 2017-present_
--	Conducted IRT, CLT and correlational analyses for researcher-designed measures for adolescents’ intercultural fluency (IF)
+_July 2017- Oct. 2019_
+-	Conducted correlational analyses for researcher-designed measures for adolescents’ intercultural fluency (IF)
 -	Devised a coding scheme and coded 261 students’ written responses to a hypothetical intercultural scenario using CLAN
 -	Built regression model using STATA to assess links between IF, language status and cultural experiential characteristics
-![GL IRT.png](Sylviawzy.github.io/assets/img/GL IRT.png)
 
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
 _Nov. 2018-May.2019_
