@@ -1,6 +1,6 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-In 2019, I graduated from the [Harvard Graduate School of Education](https://www.gse.harvard.edu/) with a Master of Education degree. My research focuses on **the role of the sociocognitive model in the development of language and literacy skills from early childhood to (pre-)adolescence**. I received my dual bachelor's degrees in [English Linguistics](http://www.wwx.tsinghua.edu.cn/publish/fdllen/index.html) and [Economics](http://www.sem.tsinghua.edu.cn/en/) from [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/) in 2018. I have provided research assistance for the design and evaluation of multiple large-scale randomized control trials (RCTs) aimed at enhancing children's language and literacy development in relatively low-resource areas in both United States and China. 
+I am a Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research interests include language and literacy development, early childhood development, literacy intervention and experimental design. In 2019, I received my Ed.M. in International Education Policy from Harvard Graduate School of Education. In 2018, I graduated from Tsinghua University with a B.A. in English Language and Literature and B.E.in Economics. 
 
 My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
 
@@ -9,15 +9,16 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 <br><br>
 
 ## Conference Presentations
--	**Wei, Z.**, Deng, Z. & Hsin, L.(2020). Position, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium submitted to the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
-- Dahbi, M.,  **Wei, Z.**, Uccelli, P., de Galbert, P., & Qin, W. (2020). Development and Validation of a Measure of Intercultural Fluency for US Adolescents Traveling Abroad. Poster submitted to the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
--	**Wei, Z.** (2019). Motivational Resources in Teacher-child Interactions in Rural China Preschool Classrooms—Evidence from the One Village One Preschool Program. Poster accepted by the Harvard Shanghai Center Academic Meeting on Quality Improvement for Early Childhood Education in Rural China, Shanghai, China. November 22.
--	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presentation at the Comparative & International Education Society (CIES 2019), San Francisco, CA. April 14-18.
-- **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presentation at the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
+-	**Wei, Z.**, Deng, Z. & Hsin, L.(2020). Position, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium accepted by the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
+- Dahbi, M.,  **Wei, Z.**, Uccelli, P., de Galbert, P., & Qin, W. (2020). Development and Validation of a Measure of Intercultural Fluency for US Adolescents Traveling Abroad. Poster accepted by the special topic meeting for the Society for Research in Child Development (SRCD 2020), Rio Grande, Puerto Rico. May 4-6.
+-	**Wei, Z.** (2019). Motivational Resources in Teacher-child Interactions in Rural China Preschool Classrooms—Evidence from the One Village One Preschool Program. Poster presented at the Harvard Shanghai Center Academic Meeting on Quality Improvement for Early Childhood Education in Rural China, Shanghai, China. November 22.
+-	**Wei, Z.** (2019). Representations of Sex Education in Major Newspapers of China and the UK: A Corpus-based Critical Discourse Analysis. Highlighted paper presented at the Comparative & International Education Society (CIES 2019), San Francisco, CA. April 14-18.
+- **Wei, Z.** & Yang, J. (2019). The Association Between Preschooler’s Social Perspective Taking Skills and Academic Outcomes. Panel presented at the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
 - **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
--	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University, Changchun, China. July 22-24.
+-	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Paper presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University, Changchun, China. July 22-24.
 
 ## Publications
+- Yang, Z. & **Wei, Z.** (2020) Leonard Woolf: The Apples of Monk’s House, _World Literature_, (1):220-234.
 -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
 - Yang, Z. & **Wei, Z.** (2018) Porta Portese, _English Language Learning_, (1):57-59.
 -	**Wei, Z.**, & Yang, Z. (2017). On God-Man Relation and Changes of Greek Politics and Laws, _Journal of Shenyang Agricultural University (Social Science Edition)_, 19(5):513-517. 
@@ -26,18 +27,17 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 <br><br>
 <div id = "projects"></div>
 
-## Research Work Experiences
+## Research Experiences
 
 #### [READS Lab at Harvard University](https://www.readslab.org) | Boston, US | Research Assistant	
 _June 2018-present_
-- Entered data for G1&2 vocabulary assessments, transcribed 2,330 persuasive essays and prepared for rating and analysis
-- Assisted the logistics for the large-scale MORE Intervention including survey, assessment and material preparation 
+- Project: Model of Reading Engagement (MORE) Intervention
+- PI: James L. Kim 
 
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
 _July 2017- Oct. 2019_
--	Conducted correlational analyses for researcher-designed measures for adolescents’ intercultural fluency (IF)
--	Devised a coding scheme and coded 261 students’ written responses to a hypothetical intercultural scenario using CLAN
--	Built regression model using STATA to assess links between IF, language status and cultural experiential characteristics
+-	Project: Global Learner Project
+-	PI: Paola Uccelli
 
 #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
 _Nov. 2018-May.2019_
@@ -52,7 +52,7 @@ _Sep. 2017-June 2018_
 -	Executed social media promotions for Brookings Early Childhood Education
 
 
-## Curriculum & Product Design Experiences
+## Curriculum Design Experiences
 
 #### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern
 _Sep. 2018-Jan.2019_
