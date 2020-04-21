@@ -29,17 +29,17 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 ## Research Experiences
 
-#### [READS Lab at Harvard University](https://www.readslab.org) | Boston, US | Research Assistant	
+#### [READS Lab at Harvard University](https://www.readslab.org) | Cambridge, MA, US | Research Assistant	
 _June 2018-present_
 - Project: Model of Reading Engagement (MORE) Intervention
 - PI: James L. Kim 
 
-#### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Boston, US | Research Assistant	
+#### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Cambridge, MA, US | Research Assistant	
 _July 2017- Oct. 2019_
 -	Project: Global Learner Project
 -	PI: Paola Uccelli
 
-#### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Boston, US | Intern Researcher	
+#### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) |Cambridge, MA, US | Intern Researcher	
 _Nov. 2018-May.2019_
 -	Built multilevel models using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
 -	Visualized data using ggplot to explore potential engines driving the gaps in Global Competence achievement
