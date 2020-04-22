@@ -1,12 +1,25 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-I am a Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research interests include language and literacy development, early childhood development, literacy intervention and experimental design. In 2019, I received my Ed.M. in International Education Policy from Harvard Graduate School of Education. In 2018, I graduated from Tsinghua University with a B.A. in English Language and Literature and B.E.in Economics. 
+I am a Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research interests include language and literacy development, early childhood development, literacy intervention and experimental design.
 
 My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
 
 [How to pronounce my name?](http://text-to-speech.imtranslator.net/speech.asp)
 
 <br><br>
+## Education
+
+**2020-2025 (expected)**
+**Harvard University**
+Ph.D. Student in Education (Concentration: Human Development, Learning and Teaching)
+
+**2018-2019**
+**Harvard University**
+Ed.M. in International Education Policy
+
+**2014-2018**
+**Tsinghua University University**
+B.A. in English Language and Literature and B.E. in Economics
 
 ## Conference Presentations
 -	**Wei, Z.**, Deng, Z. & Hsin, L.(2020). Position, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium accepted by the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
@@ -39,7 +52,7 @@ _July 2017- Oct. 2019_
 -	Project: Global Learner Project
 -	PI: Paola Uccelli
 
-#### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) |Cambridge, MA, US | Intern Researcher	
+#### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Cambridge, MA, US | Intern Researcher	
 _Nov. 2018-May.2019_
 -	Built multilevel models using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
 -	Visualized data using ggplot to explore potential engines driving the gaps in Global Competence achievement
