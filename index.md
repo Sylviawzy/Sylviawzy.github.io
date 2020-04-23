@@ -94,23 +94,3 @@ B.A. in English Language and Literature and B.E. in Economics
 I love reading classics and poems. I'm interested in the English poems written by American poet and scholar [Rosanna Warren](http://www.rosannawarren.com/). Upon her consent, I co-published the Chinese translations and appreciations of her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal. I also won the 1st prize in the English Budding Writers Competition for _English Language Learning_ for my two articles in 2018.
 
 
- <!---
- ```markdown
- Syntax highlighted code block
-
- # Header 1
- ## Header 2
- ### Header 3
-
- - Bulleted
- - List
-
- 1. Numbered
- 2. List
-
- **Bold** and _Italic_ and `Code` text
-
- [Link](url) and ![Image](src)
- ```
- -->
-
