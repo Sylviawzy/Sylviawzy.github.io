@@ -37,7 +37,7 @@ B.A. in English Language and Literature and B.E. in Economics
  - **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
  -	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Paper presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University, Changchun, China. July 22-24.
 
- ## Publications
+## Publications
  - Yang, Z. & **Wei, Z.** (2020) Leonard Woolf: The Apples of Monk’s House, _World Literature_, (1):220-234.
  -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
  - Yang, Z. & **Wei, Z.** (2018) Porta Portese, _English Language Learning_, (1):57-59.
@@ -47,41 +47,41 @@ B.A. in English Language and Literature and B.E. in Economics
  <br><br>
  <div id = "projects"></div>
 
- ## Research Experiences
+## Research Experiences
 
- #### [READS Lab at Harvard University](https://www.readslab.org) | Cambridge, MA, US | Research Assistant	
+#### [READS Lab at Harvard University](https://www.readslab.org) | Cambridge, MA, US | Research Assistant	
  _June 2018-present_
  - Project: Model of Reading Engagement (MORE) Intervention
  - PI: James L. Kim 
 
- #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Cambridge, MA, US | Research Assistant	
+#### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Cambridge, MA, US | Research Assistant	
  _July 2017- Oct. 2019_
  -	Project: Global Learner Project
  -	PI: Paola Uccelli
 
- #### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Cambridge, MA, US | Intern Researcher	
+#### [Research Schools International](https://researchschools-international-cmna.squarespace.com/) | Cambridge, MA, US | Intern Researcher	
  _Nov. 2018-May.2019_
  -	Built multilevel models using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
  -	Visualized data using ggplot to explore potential engines driving the gaps in Global Competence achievement
  ![GCscale.png](Sylviawzy.github.io/assets/img/GCscale.png)
 
- #### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
+#### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
  _Sep. 2017-June 2018_
  -	Structured information on China’s “Green Investment and Climate Bonds” database for Brookings research fellows
  -	Provided editorial assistance with the English report on [wind curtailment](https://www.brookings.edu/wp-content/uploads/2018/03/wind-curtailment-in-china-and-lessons-from-the-united-states1.pdf) and marketization of energy industry in China
  -	Executed social media promotions for Brookings Early Childhood Education
 
 
- ## Curriculum Design Experiences
+## Curriculum Design Experiences
 
- #### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern
+#### [Knovva Academy](https://www.knovva.com/) | Boston, US | Intern
  _Sep. 2018-Jan.2019_
  -	Revised content for online course “Learning in a Connected World” with UI/UX designers 
  - Designed and moderated 3 experiential workshops for the 2019 Model G20 international youth leadership summit
  - Created 2 learning evaluations embedded in course videos using Kaltura Media space
 
 
- #### [ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern
+#### [ELLevation Education](https://ellevationeducation.com/home/default) | Boston, US | Intern
  _Sep.-Dec.2018_
  -	Conducted preliminary market research on educators’ participation in online communities and interviewed clients
  -	Using Qualtrics, designed and collected survey of 97 ELL clients to formulate product recommendation
@@ -89,9 +89,9 @@ B.A. in English Language and Literature and B.E. in Economics
  <br><br>
 
 
- ## Hobbies
+## Hobbies
 
- I love reading classics and poems. I'm interested in the English poems written by American poet and scholar [Rosanna Warren](http://www.rosannawarren.com/). Upon her consent, I co-published the Chinese translations and appreciations of her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal. I also won the 1st prize in the English Budding Writers Competition for _English Language Learning_ for my two articles in 2018.
+I love reading classics and poems. I'm interested in the English poems written by American poet and scholar [Rosanna Warren](http://www.rosannawarren.com/). Upon her consent, I co-published the Chinese translations and appreciations of her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal. I also won the 1st prize in the English Budding Writers Competition for _English Language Learning_ for my two articles in 2018.
 
 
  <!---
