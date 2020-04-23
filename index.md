@@ -6,7 +6,6 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 [How to pronounce my name?](http://text-to-speech.imtranslator.net/speech.asp)
 
-<br><br>
 ## Education
 
 **2020-2025 (expected)**
@@ -15,17 +14,20 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 Ph.D. Student in Education (Concentration: Human Development, Learning and Teaching)
 
+
 **2018-2019**
 
 **Harvard University**
 
 Ed.M. in International Education Policy
 
+
 **2014-2018**
 
 **Tsinghua University**
 
 B.A. in English Language and Literature and B.E. in Economics
+
 
 ## Conference Presentations
 -	**Wei, Z.**, Deng, Z. & Hsin, L.(2020). Position, Persons and Register in (Pre-)Adolescents’ A
