@@ -10,17 +10,20 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 ## Education
 
 **2020-2025 (expected)**
+
 **Harvard University**
 
 Ph.D. Student in Education (Concentration: Human Development, Learning and Teaching)
 
 **2018-2019**
+
 **Harvard University**
 
 Ed.M. in International Education Policy
 
 **2014-2018**
-**Tsinghua University University**
+
+**Tsinghua University**
 
 B.A. in English Language and Literature and B.E. in Economics
 
