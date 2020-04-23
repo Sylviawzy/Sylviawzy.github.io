@@ -8,25 +8,25 @@ My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟
 
 ## Education
 
-**2020-2025 (expected)**
+**_2020-2025 (expected)_**
+
 **Harvard University**
 
 Ph.D. Student in Education (Concentration: Human Development, Learning and Teaching)
 
 
-**2018-2019**
+**_2018-2019_**
 
 **Harvard University**
 
 Ed.M. in International Education Policy
 
 
-**2014-2018**
+**_2014-2018_**
 
 **Tsinghua University**
 
 B.A. in English Language and Literature and B.E. in Economics
-
 
 ## Conference Presentations
  -	**Wei, Z.**, Deng, Z. & Hsin, L.(2020). Position, Persons and Register in (Pre-)Adolescents’ Argumentative Writing. Paper symposium accepted by the International Association for the Study of Child Language (IASCL 2020), Philadelphia, PA. July 13-17.
