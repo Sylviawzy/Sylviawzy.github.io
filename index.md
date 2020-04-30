@@ -64,7 +64,6 @@ B.A. in English Language and Literature and B.E. in Economics
  _Nov. 2018-May.2019_
  -	Built multilevel models using R examining the effect of 5 key global learning activities across 150 Round Square Schools on students’ Global Competence score based on PISA assessments
  -	Visualized data using ggplot to explore potential engines driving the gaps in Global Competence achievement
- ![GCscale.png](Sylviawzy.github.io/assets/img/GCscale.png)
 
 #### [Brookings Institution - Tsinghua Center](https://www.brookings.edu/center/brookings-tsinghua-center/)| Beijing, China | Intern Researcher	
  _Sep. 2017-June 2018_
