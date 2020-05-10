@@ -1,6 +1,6 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-I am a Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research interests include language and literacy development, early childhood development, literacy intervention and experimental design.
+I am an incoming Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research interests include language and literacy development, early childhood development, literacy intervention and experimental design. My current research explores how early language input shapes children's literacy and socio-cognitive development.
 
 My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
 
@@ -26,7 +26,9 @@ Ed.M. in International Education Policy
 
 **Tsinghua University**
 
-B.A. in English Language and Literature and B.E. in Economics
+B.A. in English Language and Literature
+
+B.E. in Economics
 
 ## Conference Presentations
  - Hua, Y., Guo, Q., & **Wei, Z.** (2020). How does Linggle Consultation Affect Phraseological Competence? Proposal submitted to the 2020 International Conference on Teaching and Researching EFL Writing, Beijing, China. October 23-25.
