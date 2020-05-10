@@ -55,7 +55,7 @@ B.E. in Economics
 #### [READS Lab at Harvard University](https://www.readslab.org) | Cambridge, MA, US | Research Assistant	
  _June 2018-present_
  - Project: Model of Reading Engagement (MORE) Intervention
- - PI: James L. Kim 
+ - PI: James S. Kim 
 
 #### [Language for Learning Research Group at Harvard University](https://projects.iq.harvard.edu/uccelli) | Cambridge, MA, US | Research Assistant	
  _July 2017- Oct. 2019_
