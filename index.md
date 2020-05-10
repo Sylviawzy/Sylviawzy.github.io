@@ -1,6 +1,6 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-I am an incoming Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research interests include language and literacy development, early childhood development, literacy intervention and experimental design. My current research explores how early language input shapes children's literacy and socio-cognitive development.
+I am an incoming Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research interests include language and literacy development, early childhood development, literacy intervention and experimental design. My current research explores how input quality shapes children's literacy and socio-cognitive development.
 
 My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
 
