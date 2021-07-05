@@ -1,14 +1,12 @@
 **Hi, I'm Zhongyu (Sylvia) Wei, welcome to my homepage!**
 
-I am a first-year Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research interests include language and literacy development, early childhood development, literacy intervention and experimental design. My current research explores how input quality shapes children's literacy and socio-cognitive development.
-
-My name in Chinese characters is 魏钟毓, which comes from a Chinese idiom 钟灵毓秀，meaning to breed the talent from the land. 
+I am a first-year Ph.D. student in Human Development, Learning and Teaching at Harvard University. My research is focused on understanding how children’s interactions with the social world shape their language and literacy development. I’m particularly interested in the role of language engagement, i.e., language input that facilitates or signifies language-based exchanges and reflects the degree to which the interaction is social and dynamic. I study language engagement in teacher-child and parent-child interactions across contexts. 
 
 [How to pronounce my name?](http://text-to-speech.imtranslator.net/speech.asp)
 
 ## Education
 
-**_2020-2025 (expected)_**
+**_2020-2026 (expected)_**
 
 **Harvard University**
 
@@ -41,8 +39,9 @@ B.E. in Economics
  - **Wei, Z.** & Wang, L. (2019). Global Education Learning Activities & Global Competency Outcomes. Roundtable session the 24th Annual Student Research Conference at Harvard University. Cambridge, MA. March 11.
  -	**Wei, Z.** (2018). The Impact of Family Investment in Human Capital on Chinese Migrant Children’s Cognitive Ability: An Empirical Study Based on China Education Panel Survey (2014-2015). Paper presented at the Cognitive Neuroscience and Learning Conference at Northeast Normal University, Changchun, China. July 22-24.
 
-## Publications
- - Yang, Z. & **Wei, Z.** (2020) Leonard Woolf: The Apples of Monk’s House, _World Literature_, (1):220-234.
+## Other Publications
+ - Yang, Z. & **Wei, Z.** (2021) Jane Austen: The Consolations of Chawton Cottage (Translation), _Translations (Yilin)_, (1):6-10.
+ - Yang, Z. & **Wei, Z.** (2020) Leonard Woolf: The Apples of Monk’s House (Translation), _World Literature_, (1):220-234.
  -	**Wei, Z.** (2018). Spinning Wheel, _English Language Learning_, (4):70-73.
  - Yang, Z. & **Wei, Z.** (2018) Porta Portese, _English Language Learning_, (1):57-59.
  -	**Wei, Z.**, & Yang, Z. (2017). On God-Man Relation and Changes of Greek Politics and Laws, _Journal of Shenyang Agricultural University (Social Science Edition)_, 19(5):513-517. 
@@ -90,10 +89,4 @@ B.E. in Economics
  -	Using Qualtrics, designed and collected survey of 97 ELL clients to formulate product recommendation
 
  <br><br>
-
-
-## Hobbies
-
-I love reading classics and poems. I'm interested in the English poems written by American poet and scholar [Rosanna Warren](http://www.rosannawarren.com/). Upon her consent, I co-published the Chinese translations and appreciations of her poems _Porta Portese_ and _Romanesque_ on the _English Language Learning_ journal. I also won the 1st prize in the English Budding Writers Competition for _English Language Learning_ for my two articles in 2018.
-
 
